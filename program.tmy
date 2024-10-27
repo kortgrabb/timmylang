@@ -1,0 +1,12 @@
+int x = 10;
+string greeting = "Hello There, ";
+string name = "Timmy";
+print greeting + name;
+
+print "Current x: " + x;
+
+x = x + 5;
+print "Updated x: " + x;
+
+int y = x * 2;
+print "y is: " + y;
